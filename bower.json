@@ -1,0 +1,34 @@
+{
+  "name": "ng-toggle-btn",
+  "version": "0.1.0",
+  "description": "AngularJS directive for toggle switch button",
+  "main": [
+		"js/ng-toggle-btn.js",
+		"css/ng-toggle-btn.css"
+   ],
+  "keywords": [
+    "AngularJS",
+    "toggle",
+    "button",
+    "switch",
+    "buton",
+    "angular",
+    "switch",
+    "ng",
+    "switch",
+    "button",
+    "ng-buton"
+  ],
+  "authors": [
+    "Shiju K Babu https://github.com/shijukbabu/"
+  ],
+  "license": "MIT",
+  "homepage": "http://shijukbabu.github.io/ng-toggle-btn/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
