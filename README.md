@@ -1,19 +1,18 @@
 # ng-toggle-btn
 
-AngularJS Directive for switch toggle button with styles.
+AngularJS Directive for switch toggle button with styles. 
+**Version 0.1.0**
+Tested with AngularJS 1.4.2 and 1.4.6
 
 [ng-toggle-btn Page](http://shijukbabu.github.io/ng-toggle-btn/)
 
-[Example](http://shijukbabu.github.io/ng-toggle-btn-example/)
-
 [Demo Here](http://plnkr.co/edit/oUxD3vgUsnM2Hrgd2cA4?p=preview)
 
-**Usage**
-<br>
+## Bower Install 
+`bower install ng-toggle-btn`
+## Usage
 Add dependency to app.
-
 `angular.module('moduleName', ['ng-toggle.btn']);`
-
 **HTML**
 
 `<input ng-model="modelName" name="{{name}}" type="checkbox"`
